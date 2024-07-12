@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ziyue/assessment3/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/opencv4/include/opencv4 -g -o CMakeFiles/VideoPlayer.dir/vedio.cpp.o -c /home/ziyue/assessment3/vedio.cpp",
+  "file": "/home/ziyue/assessment3/vedio.cpp"
+}
+]
